@@ -22,8 +22,8 @@ An interactive, web-based visualization platform designed to bring complex algor
 
 
 ## 💻 Technologies Used
-* **Frontend:** HTML, CSS, JavaScript [Update if you used React/Vue etc.]
-* **Backend:** [Update if applicable, e.g., Node.js/Express, or remove if purely frontend]
+* **Frontend:**  React
+
 
 ## 👨‍💻 Team
 * **Team Leader:** Chitresh
